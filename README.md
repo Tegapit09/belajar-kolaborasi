@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-repository untuk belajar cara kolaborasi 
+Belajar di Github sangat menyenangkan
